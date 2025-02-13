@@ -9,14 +9,18 @@ try:
 
     if age >= 18: 
         
-    if membership == "yes":    
+    if membership == "yes": 
+        
     print("Access granted.")
     
     else:
+        
     print("Membership required for access.")
 
     else:
+
     print("Access denied. Must be at least 18 years old.")
 
 except ValueError:
+
     print("Invalid age input. Please enter an integer.")
