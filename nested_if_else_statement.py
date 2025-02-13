@@ -4,6 +4,7 @@ try:
     
     age = int(age_str)
     membership = membership_str.strip().lower()
+    
 
     if age >= 18: 
         
