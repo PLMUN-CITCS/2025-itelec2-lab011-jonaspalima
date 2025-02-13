@@ -1,4 +1,5 @@
 try:
+    
     age_str = input("Enter your age: ")
     
     membership_str = input("Are you a member? (Yes/No): ")
