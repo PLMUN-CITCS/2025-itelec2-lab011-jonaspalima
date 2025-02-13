@@ -10,6 +10,7 @@ try:
 
     if age >= 18: 
 
+    
         
     if membership == "yes": 
         
